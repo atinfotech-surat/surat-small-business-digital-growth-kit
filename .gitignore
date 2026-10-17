@@ -1,0 +1,9 @@
+# Keep filled private business/customer data out of the public repository.
+private-business-data/
+local-notes/
+*.filled-private.csv
+*.filled-private.xlsx
+
+# Operating-system files
+.DS_Store
+Thumbs.db
